@@ -1,0 +1,23 @@
+#July Week 5
+
+## Todo
+
+* **Admin page** - create an admin page where the admin can add user, farm, house, pen, parentage, breed, feed, medication
+
+## Done
+
+* **Admin Page** - I used Bootstrap modals to easily organize the page.  
+
+## To be done
+
+* **view Movement Details and Weight** - I'm not done with view movement of pig beacause I need to study how to make a graph using javascript.
+
+## Things learned
+
+* Always think of a more simpler solution or algorithm.
+* Do not make your solution too complicated.
+
+## Hardest task done this week
+
+* **Insert Medication and Feeds** - I find it hard to think of a simpler way to select all checkboxes values when "Select All" is checked. Then I realized that I can still used arrays to store the values and it can be used in the whole program.  
+
